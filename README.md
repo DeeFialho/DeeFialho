@@ -1,5 +1,5 @@
 ### Hi there, I'm Dee 👋 
-- Pronoums: She/Her, They/Them
+- Pronouns: She/Her, They/Them
 
 ## I'm a tech enthusiast and software engineering student
 
