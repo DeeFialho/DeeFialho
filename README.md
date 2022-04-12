@@ -1,11 +1,10 @@
 ### Hi there, I'm Dee 👋 
 - Pronouns: She/Her, They/Them
 
-## I'm a tech enthusiast and software engineering student
+## I'm a tech enthusiast and I have a bachelor's in software engineering
 
-- 🌱 I’m currently learning Javascript and Dart
-- 🥅 2021 Goals: Work on more personal projects
-- ⚡ Fun fact: I love to read and play guitar / bass
+- 🌱 I’m currently interested in web development
+- 🥅 2022 Goals: Work on more personal projects
 
 ### Connect with me:
 
