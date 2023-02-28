@@ -3,8 +3,8 @@
 
 ## I'm a tech enthusiast and I have a bachelor's in software engineering
 
-- 🌱 I’m currently interested in web development
-- 🥅 2022 Goals: Work on more personal projects
+- 🌱 I’m currently interested in mobile and web development
+- 🥅 2023 Goals: Learn more flutter and react
 
 ### Connect with me:
 
